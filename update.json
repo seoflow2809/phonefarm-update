@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "notes": "Bản khởi tạo kênh cập nhật PhoneFarm.\n\nCác bản sau: sửa version + url tới file PhoneFarm.exe trên GitHub Releases.",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/latest/download/PhoneFarm.exe",
+  "mandatory": false
+}
