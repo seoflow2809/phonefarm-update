@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "notes": "Bản khởi tạo kênh cập nhật PhoneFarm.\n\nCác bản sau: sửa version + url tới file PhoneFarm.exe trên GitHub Releases.",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/latest/download/PhoneFarm.exe",
+  "version": "0.2.0",
+  "notes": "PhoneFarm v0.2.0\n\n- Nuôi kênh TikTok: Like / Follow / Comment theo %\n- Đăng ảnh TikTok\n- Tự động tìm từ khoá\n- Lướt FYP, đăng video, hướng dẫn A–Z, cập nhật tự động",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.2.0/PhoneFarm.exe",
   "mandatory": false
 }
