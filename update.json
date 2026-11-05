@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "notes": "PhoneFarm v0.2.0\n\n- Nuôi kênh TikTok: Like / Follow / Comment theo %\n- Đăng ảnh TikTok\n- Tự động tìm từ khoá\n- Lướt FYP, đăng video, hướng dẫn A–Z, cập nhật tự động",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.2.0/PhoneFarm.exe",
+  "version": "0.2.1",
+  "notes": "PhoneFarm v0.2.1 — bản cài đặt NSIS chuẩn\n\n- Installer Setup (không còn portable dễ lỗi)\n- Shortcut Desktop / Start Menu\n- Nuôi kênh TikTok: Like / Follow / Comment, đăng ảnh, tìm từ khoá\n- Cập nhật tự động mở trình cài đặt mới",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.2.1/PhoneFarm-Setup-0.2.1.exe",
   "mandatory": false
 }
