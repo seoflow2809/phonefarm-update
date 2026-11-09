@@ -1,6 +1,6 @@
 {
-  "version": "0.3.5",
-  "notes": "PhoneFarm v0.3.5\n\n- Mở URL qua trình duyệt mặc định (Chrome/Samsung…) rồi mới sang TikTok — đúng video theo link\n- Không còn ép mở thẳng package TikTok (hay bị lệch FYP)\n- Tự bấm nút Mở / Open in TikTok trên trình duyệt",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.5/PhoneFarm-Setup-0.3.5.exe",
+  "version": "0.3.6",
+  "notes": "PhoneFarm v0.3.6\n\n- Chậm thao tác + tìm icon Comment bằng UI — không còn bấm nhầm nút + tạo video / + đính ảnh\n- Nhập comment ưu tiên ATX (máy farm), rồi clipboard; tắt tạm IME Panda\n- Abort nếu ô vẫn là @user — chỉ gửi khi đúng câu đã setup",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.6/PhoneFarm-Setup-0.3.6.exe",
   "mandatory": false
 }
