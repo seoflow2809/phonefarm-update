@@ -1,6 +1,6 @@
 {
-  "version": "0.3.2",
-  "notes": "PhoneFarm v0.3.2\n\n- Tách URL bài đăng / URL profile (nhiều link mỗi ô)\n- Fix comment: mở đúng ô nhập, không bấm nhầm Views\n- Cấu hình theo máy: mỗi phone URL + hành động riêng\n- Chạy từng máy hoặc chạy tất cả song song\n- Áp dụng cấu hình cho máy đã chọn / tất cả online",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.2/PhoneFarm-Setup-0.3.2.exe",
+  "version": "0.3.3",
+  "notes": "PhoneFarm v0.3.3\n\n- TikTok chỉ còn Cấu hình theo máy (bỏ FYP / tương tác % / Shop / LIVE / xáo trộn…)\n- Fix comment dán nhầm @user: set clipboard bằng UTF-8 ổn định, xoá ô trước khi paste\n- Nhật ký hiện mẫu câu comment vừa gửi",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.3/PhoneFarm-Setup-0.3.3.exe",
   "mandatory": false
 }
