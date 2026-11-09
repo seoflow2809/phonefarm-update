@@ -1,6 +1,6 @@
 {
-  "version": "0.3.6",
-  "notes": "PhoneFarm v0.3.6\n\n- Chậm thao tác + tìm icon Comment bằng UI — không còn bấm nhầm nút + tạo video / + đính ảnh\n- Nhập comment ưu tiên ATX (máy farm), rồi clipboard; tắt tạm IME Panda\n- Abort nếu ô vẫn là @user — chỉ gửi khi đúng câu đã setup",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.6/PhoneFarm-Setup-0.3.6.exe",
+  "version": "0.3.7",
+  "notes": "PhoneFarm v0.3.7\n\n- Khôi phục đầy đủ các mục TikTok (FYP, tương tác, đăng ảnh/video, Story, Shop, LIVE, xáo trộn…)\n- Comment theo URL vẫn dạng cấu hình theo máy\n- Mỗi khối có nút gạt Bật/Tắt",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.7/PhoneFarm-Setup-0.3.7.exe",
   "mandatory": false
 }
