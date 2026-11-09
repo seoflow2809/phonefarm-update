@@ -1,6 +1,6 @@
 {
-  "version": "0.3.1",
-  "notes": "PhoneFarm v0.3.1\n\n- Mở link TikTok xong sẽ like / follow / comment, không chỉ mở profile hoặc video\n- Link profile: follow rồi tương tác các video trên profile\n- Link video: tương tác ngay trên video\n- Link LIVE: vào phòng và follow",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.1/PhoneFarm-Setup-0.3.1.exe",
+  "version": "0.3.2",
+  "notes": "PhoneFarm v0.3.2\n\n- Tách URL bài đăng / URL profile (nhiều link mỗi ô)\n- Fix comment: mở đúng ô nhập, không bấm nhầm Views\n- Cấu hình theo máy: mỗi phone URL + hành động riêng\n- Chạy từng máy hoặc chạy tất cả song song\n- Áp dụng cấu hình cho máy đã chọn / tất cả online",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.2/PhoneFarm-Setup-0.3.2.exe",
   "mandatory": false
 }
