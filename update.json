@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4",
-  "notes": "PhoneFarm v0.3.4\n\n- FIX GẤP comment: đọc lại ô EditText trước khi gửi — nếu đang là @user/link thì HUỶ, không gửi linh tinh\n- Focus đúng ô comment bằng uiautomator (không đoán toạ độ mù)\n- Clipboard UTF-8 qua script trên máy + paste nhiều lớp (KEYCODE / Ctrl+V / long-press)\n- Hỗ trợ ADB Keyboard nếu máy đã cài",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.4/PhoneFarm-Setup-0.3.4.exe",
+  "version": "0.3.5",
+  "notes": "PhoneFarm v0.3.5\n\n- Mở URL qua trình duyệt mặc định (Chrome/Samsung…) rồi mới sang TikTok — đúng video theo link\n- Không còn ép mở thẳng package TikTok (hay bị lệch FYP)\n- Tự bấm nút Mở / Open in TikTok trên trình duyệt",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.5/PhoneFarm-Setup-0.3.5.exe",
   "mandatory": false
 }
