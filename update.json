@@ -1,6 +1,6 @@
 {
-  "version": "0.3.20",
-  "notes": "PhoneFarm v0.3.20\n\n- Fix nút Gửi: tìm nút tròn đỏ + ẩn bàn phím rồi tap đáy màn\n- Tap dày hơn theo mép phải ô comment",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.20/PhoneFarm-Setup-0.3.20.exe",
+  "version": "0.3.21",
+  "notes": "PhoneFarm v0.3.21\n\n- Bấm Gửi bằng image-finder (FarmPro) + dò màu đỏ nút Gửi\n- Template nút Gửi TikTok kèm theo",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.21/PhoneFarm-Setup-0.3.21.exe",
   "mandatory": false
 }
