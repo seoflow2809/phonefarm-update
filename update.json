@@ -1,6 +1,6 @@
 {
-  "version": "0.3.17",
-  "notes": "PhoneFarm v0.3.17\n\n- Fix comment cụt còn chữ h: nhập 1 dòng, ADB Keyboard base64 script\n- Xoá sạch rồi gõ lại nếu bị cụt\n- Không gửi khi ô còn chữ lệch",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.17/PhoneFarm-Setup-0.3.17.exe",
+  "version": "0.3.18",
+  "notes": "PhoneFarm v0.3.18\n\n- Fix ADB Keyboard APK: không lấy trong app.asar (adb không đọc được)\n- Copy APK ra TEMP rồi mới install",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.18/PhoneFarm-Setup-0.3.18.exe",
   "mandatory": false
 }
