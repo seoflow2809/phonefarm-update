@@ -1,6 +1,6 @@
 {
-  "version": "0.3.18",
-  "notes": "PhoneFarm v0.3.18\n\n- Fix ADB Keyboard APK: không lấy trong app.asar (adb không đọc được)\n- Copy APK ra TEMP rồi mới install",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.18/PhoneFarm-Setup-0.3.18.exe",
+  "version": "0.3.19",
+  "notes": "PhoneFarm v0.3.19\n\n- Fix bấm nút Gửi đỏ cạnh ô comment (thử nhiều toạ độ đến khi gửi xong)\n- Không bỏ sót khi bàn phím ADB đang mở",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.19/PhoneFarm-Setup-0.3.19.exe",
   "mandatory": false
 }
