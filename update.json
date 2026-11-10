@@ -1,6 +1,6 @@
 {
-  "version": "0.3.13",
-  "notes": "PhoneFarm v0.3.13\n\n- Comment: dán đúng câu setup (có dấu), không xóa/gõ lung tung\n- Bỏ fallback bỏ dấu\n- Bắt buộc bấm nút Gửi rồi mới báo hoàn thành",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.13/PhoneFarm-Setup-0.3.13.exe",
+  "version": "0.3.14",
+  "notes": "PhoneFarm v0.3.14\n\n- Fix triệt để comment: tự cài ADB Keyboard, nhập có dấu\n- Không nhầm placeholder Add comment... là nội dung\n- Paste long-press + ATX setText dự phòng",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.14/PhoneFarm-Setup-0.3.14.exe",
   "mandatory": false
 }
