@@ -1,6 +1,6 @@
 {
-  "version": "0.3.7",
-  "notes": "PhoneFarm v0.3.7\n\n- Khôi phục đầy đủ các mục TikTok (FYP, tương tác, đăng ảnh/video, Story, Shop, LIVE, xáo trộn…)\n- Comment theo URL vẫn dạng cấu hình theo máy\n- Mỗi khối có nút gạt Bật/Tắt",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.7/PhoneFarm-Setup-0.3.7.exe",
+  "version": "0.3.8",
+  "notes": "PhoneFarm v0.3.8\n\n- FIX: Chạy theo máy chỉ làm đúng Like/Follow/Comment đã tick — không chạy cả cụm tương tác\n- Không còn bấm nhầm Like khi đang mở ô comment\n- Chạy máy này luôn lấy checkbox trên form; nhật ký ghi rõ hành động từng máy",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.8/PhoneFarm-Setup-0.3.8.exe",
   "mandatory": false
 }
