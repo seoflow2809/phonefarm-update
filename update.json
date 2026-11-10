@@ -1,6 +1,6 @@
 {
-  "version": "0.3.10",
-  "notes": "PhoneFarm v0.3.10\n\n- FIX: TikTok đã mở nhưng tool báo lỗi dừng — do dumpsys Samsung không nhận app\n- Chỉ dừng khi chắc vẫn đang trình duyệt; nhận TikTok qua UI dump\n- Deep link OK thì tiếp tục comment, không đứng im",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.10/PhoneFarm-Setup-0.3.10.exe",
+  "version": "0.3.11",
+  "notes": "PhoneFarm v0.3.11\n\n- FIX triệt để: không còn dừng vì “Không mở được ô comment”\n- Mở comment nhiều lớp (UI + toạ độ); dump fail vẫn gõ/gửi\n- Nhận ô nhập / icon comment rộng hơn (TikTok custom view)",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.11/PhoneFarm-Setup-0.3.11.exe",
   "mandatory": false
 }
