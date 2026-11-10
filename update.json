@@ -1,6 +1,6 @@
 {
-  "version": "0.3.12",
-  "notes": "PhoneFarm v0.3.12\n\n- Fix updater: Setup ~80MB — tăng timeout, mạng chậm thì mở link tải tay\n- Không kẹt im khi tải update",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.12/PhoneFarm-Setup-0.3.12.exe",
+  "version": "0.3.13",
+  "notes": "PhoneFarm v0.3.13\n\n- Comment: dán đúng câu setup (có dấu), không xóa/gõ lung tung\n- Bỏ fallback bỏ dấu\n- Bắt buộc bấm nút Gửi rồi mới báo hoàn thành",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.13/PhoneFarm-Setup-0.3.13.exe",
   "mandatory": false
 }
