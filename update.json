@@ -1,6 +1,6 @@
 {
-  "version": "0.3.16",
-  "notes": "PhoneFarm v0.3.16\n\n- Fix comment: TikTok ẩn text trong dump → vẫn gửi sau ADB Keyboard\n- Cài ADB Keyboard chắc hơn (pm install -g)\n- Không abort vì ô hiện rỗng/ký tự lạ",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.16/PhoneFarm-Setup-0.3.16.exe",
+  "version": "0.3.17",
+  "notes": "PhoneFarm v0.3.17\n\n- Fix comment cụt còn chữ h: nhập 1 dòng, ADB Keyboard base64 script\n- Xoá sạch rồi gõ lại nếu bị cụt\n- Không gửi khi ô còn chữ lệch",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.17/PhoneFarm-Setup-0.3.17.exe",
   "mandatory": false
 }
