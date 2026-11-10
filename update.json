@@ -1,6 +1,6 @@
 {
-  "version": "0.3.8",
-  "notes": "PhoneFarm v0.3.8\n\n- FIX: Chạy theo máy chỉ làm đúng Like/Follow/Comment đã tick — không chạy cả cụm tương tác\n- Không còn bấm nhầm Like khi đang mở ô comment\n- Chạy máy này luôn lấy checkbox trên form; nhật ký ghi rõ hành động từng máy",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.8/PhoneFarm-Setup-0.3.8.exe",
+  "version": "0.3.9",
+  "notes": "PhoneFarm v0.3.9\n\n- FIX: Sau khi mở đúng video không còn bấm nhầm Home/thanh dưới → nhảy FYP\n- Mở link: browser → nút Open an toàn (không fallback đáy) → deep link nếu cần\n- Nhiều URL: comment xong → mở video tiếp theo, lặp lại\n- Kiểm tra đang ở TikTok trước khi comment",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.9/PhoneFarm-Setup-0.3.9.exe",
   "mandatory": false
 }
