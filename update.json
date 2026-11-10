@@ -1,6 +1,6 @@
 {
-  "version": "0.3.11",
-  "notes": "PhoneFarm v0.3.11\n\n- FIX triệt để: không còn dừng vì “Không mở được ô comment”\n- Mở comment nhiều lớp (UI + toạ độ); dump fail vẫn gõ/gửi\n- Nhận ô nhập / icon comment rộng hơn (TikTok custom view)",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.11/PhoneFarm-Setup-0.3.11.exe",
+  "version": "0.3.12",
+  "notes": "PhoneFarm v0.3.12\n\n- Fix updater: Setup ~80MB — tăng timeout, mạng chậm thì mở link tải tay\n- Không kẹt im khi tải update",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.12/PhoneFarm-Setup-0.3.12.exe",
   "mandatory": false
 }
