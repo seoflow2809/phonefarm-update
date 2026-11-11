@@ -1,6 +1,6 @@
 {
-  "version": "0.3.24",
-  "notes": "PhoneFarm v0.3.24\n\n- Fix bấm lung tung: không tap giữa đáy (nút + Create/camera)\n- Comment theo thứ tự: thoát Create → mở ô → nhập → gửi\n- Bỏ fallback synthetic; không tìm thấy ô/nút Gửi thì dừng",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.24/PhoneFarm-Setup-0.3.24.exe",
+  "version": "0.3.25",
+  "notes": "PhoneFarm v0.3.25\n\n- Học UI theo máy (Like/Comment/Input/Send) lưu 30 ngày — kiểu tiktok-warmup\n- Warmup: quick-skip, % like/comment, health-check FYP, giới hạn ngày\n- Comment/Like ưu tiên toạ độ đã học, tránh nút + Create\n- Tự học lại UI khi health fail liên tiếp",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.25/PhoneFarm-Setup-0.3.25.exe",
   "mandatory": false
 }
