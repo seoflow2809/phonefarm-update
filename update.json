@@ -1,6 +1,6 @@
 {
-  "version": "0.3.26",
-  "notes": "PhoneFarm v0.3.26\n\n- Fix lag sau mở video: không tự học UI / image-finder giữa job\n- Bỏ dump UI nặng trên đường mở link + actVideo\n- Học UI chỉ khi bấm nút Học UI; job chạy ngay bằng cache hoặc toạ độ an toàn",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.26/PhoneFarm-Setup-0.3.26.exe",
+  "version": "0.3.27",
+  "notes": "PhoneFarm v0.3.27\n\n- Fix lỗi không mở được ô comment (treo ~9 phút rồi fail)\n- Dump UI timeout ngắn; mở comment = tap icon + thanh Add comment\n- Dump ẩn EditText vẫn gõ/gửi bằng toạ độ đã học hoặc fallback an toàn",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.27/PhoneFarm-Setup-0.3.27.exe",
   "mandatory": false
 }
