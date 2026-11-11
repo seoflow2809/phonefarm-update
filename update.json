@@ -1,6 +1,6 @@
 {
-  "version": "0.3.22",
-  "notes": "PhoneFarm v0.3.22\n\n- Fix: mỗi máy chỉ chạy đúng Like/Follow/Comment đã tick\n- Mix + Comment theo máy: không copy cấu hình máy đang chọn sang máy khác\n- Đổi máy tự lưu form; không ghi nhầm serial khi refresh list\n- Like không còn mặc định bật khi thiếu flag",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.22/PhoneFarm-Setup-0.3.22.exe",
+  "version": "0.3.23",
+  "notes": "PhoneFarm v0.3.23\n\n- Fix thành công giả: không báo OK khi chưa verify đã nhập/gửi comment\n- Bỏ unverified type OK; panel đóng không còn = đã gửi\n- Chỉ OK khi thấy chữ đúng câu hoặc nút Gửi thật + chứng cứ gửi",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.23/PhoneFarm-Setup-0.3.23.exe",
   "mandatory": false
 }
