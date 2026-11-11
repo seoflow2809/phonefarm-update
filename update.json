@@ -1,6 +1,6 @@
 {
-  "version": "0.3.23",
-  "notes": "PhoneFarm v0.3.23\n\n- Fix thành công giả: không báo OK khi chưa verify đã nhập/gửi comment\n- Bỏ unverified type OK; panel đóng không còn = đã gửi\n- Chỉ OK khi thấy chữ đúng câu hoặc nút Gửi thật + chứng cứ gửi",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.23/PhoneFarm-Setup-0.3.23.exe",
+  "version": "0.3.24",
+  "notes": "PhoneFarm v0.3.24\n\n- Fix bấm lung tung: không tap giữa đáy (nút + Create/camera)\n- Comment theo thứ tự: thoát Create → mở ô → nhập → gửi\n- Bỏ fallback synthetic; không tìm thấy ô/nút Gửi thì dừng",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.24/PhoneFarm-Setup-0.3.24.exe",
   "mandatory": false
 }
