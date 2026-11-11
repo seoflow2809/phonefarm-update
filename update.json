@@ -1,6 +1,6 @@
 {
-  "version": "0.3.30",
-  "notes": "PhoneFarm v0.3.30\n\n- Fix nút Gửi comment: bấm mép phải ô nhập (không chặn y thấp)\n- Thử Enter/ADB Keyboard trước khi dump nặng\n- Dò pixel đỏ/hồng nút Gửi rộng hơn\n- Giảm lỗi «Không tìm thấy nút Gửi»",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.30/PhoneFarm-Setup-0.3.30.exe",
+  "version": "0.3.31",
+  "notes": "PhoneFarm v0.3.31\n\n- Fix báo comment OK giả: chỉ OK khi ô hết câu hoặc thấy comment trên list\n- Comment-only: ít tap, không rải Like/Share/Create như farm\n- Panel đóng không còn tính là gửi thành công\n- Tối đa vài điểm nút Gửi đã xác nhận",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.31/PhoneFarm-Setup-0.3.31.exe",
   "mandatory": false
 }
