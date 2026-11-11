@@ -1,6 +1,6 @@
 {
-  "version": "0.3.28",
-  "notes": "PhoneFarm v0.3.28\n\n- Thẻ Học UI riêng + nút Học UI rõ ràng\n- Hiện ✅ Đã học / ❌ Chưa học theo từng máy\n- Nhật ký HỌC UI XONG khi học thành công",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.28/PhoneFarm-Setup-0.3.28.exe",
+  "version": "0.3.29",
+  "notes": "PhoneFarm v0.3.29\n\n- Fix comment theo URL: mở đúng ô nhập rồi mới gõ/gửi\n- Không bấm mù đáy màn (tránh nút + Create)\n- Nhận diện icon Comment / thanh Thêm bình luận bằng UI dump\n- Chờ UI video ổn định sau khi mở link",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.29/PhoneFarm-Setup-0.3.29.exe",
   "mandatory": false
 }
