@@ -1,6 +1,6 @@
 {
-  "version": "0.3.29",
-  "notes": "PhoneFarm v0.3.29\n\n- Fix comment theo URL: mở đúng ô nhập rồi mới gõ/gửi\n- Không bấm mù đáy màn (tránh nút + Create)\n- Nhận diện icon Comment / thanh Thêm bình luận bằng UI dump\n- Chờ UI video ổn định sau khi mở link",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.29/PhoneFarm-Setup-0.3.29.exe",
+  "version": "0.3.30",
+  "notes": "PhoneFarm v0.3.30\n\n- Fix nút Gửi comment: bấm mép phải ô nhập (không chặn y thấp)\n- Thử Enter/ADB Keyboard trước khi dump nặng\n- Dò pixel đỏ/hồng nút Gửi rộng hơn\n- Giảm lỗi «Không tìm thấy nút Gửi»",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.30/PhoneFarm-Setup-0.3.30.exe",
   "mandatory": false
 }
