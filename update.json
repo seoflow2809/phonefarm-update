@@ -1,6 +1,6 @@
 {
-  "version": "0.3.32",
-  "notes": "PhoneFarm v0.3.32\n\n- Fix Học UI: vuốt FYP rồi mở ô comment chuẩn (không fail sớm)\n- Thử video thứ 2 nếu video đầu không mở được comment\n- Không còn log ✅ Đã học khi học thất bại",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.32/PhoneFarm-Setup-0.3.32.exe",
+  "version": "0.3.33",
+  "notes": "PhoneFarm v0.3.33\n\n- Học UI: gõ thử để nút Gửi hiện rồi mới lưu toạ độ Send\n- Không còn lưu send sai (vd y=2620 ngoài màn)\n- Khi comment: tìm lại nút Gửi sau khi đã nhập chữ\n- Log HỌC UI XONG có send=đã thấy nút",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.33/PhoneFarm-Setup-0.3.33.exe",
   "mandatory": false
 }
