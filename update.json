@@ -1,6 +1,6 @@
 {
-  "version": "0.3.21",
-  "notes": "PhoneFarm v0.3.21\n\n- Bấm Gửi bằng image-finder (FarmPro) + dò màu đỏ nút Gửi\n- Template nút Gửi TikTok kèm theo",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.21/PhoneFarm-Setup-0.3.21.exe",
+  "version": "0.3.22",
+  "notes": "PhoneFarm v0.3.22\n\n- Fix: mỗi máy chỉ chạy đúng Like/Follow/Comment đã tick\n- Mix + Comment theo máy: không copy cấu hình máy đang chọn sang máy khác\n- Đổi máy tự lưu form; không ghi nhầm serial khi refresh list\n- Like không còn mặc định bật khi thiếu flag",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.22/PhoneFarm-Setup-0.3.22.exe",
   "mandatory": false
 }
