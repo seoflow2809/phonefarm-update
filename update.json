@@ -1,6 +1,6 @@
 {
-  "version": "0.3.25",
-  "notes": "PhoneFarm v0.3.25\n\n- Học UI theo máy (Like/Comment/Input/Send) lưu 30 ngày — kiểu tiktok-warmup\n- Warmup: quick-skip, % like/comment, health-check FYP, giới hạn ngày\n- Comment/Like ưu tiên toạ độ đã học, tránh nút + Create\n- Tự học lại UI khi health fail liên tiếp",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.25/PhoneFarm-Setup-0.3.25.exe",
+  "version": "0.3.26",
+  "notes": "PhoneFarm v0.3.26\n\n- Fix lag sau mở video: không tự học UI / image-finder giữa job\n- Bỏ dump UI nặng trên đường mở link + actVideo\n- Học UI chỉ khi bấm nút Học UI; job chạy ngay bằng cache hoặc toạ độ an toàn",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.26/PhoneFarm-Setup-0.3.26.exe",
   "mandatory": false
 }
