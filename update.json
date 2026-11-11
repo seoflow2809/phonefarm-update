@@ -1,6 +1,6 @@
 {
-  "version": "0.3.31",
-  "notes": "PhoneFarm v0.3.31\n\n- Fix báo comment OK giả: chỉ OK khi ô hết câu hoặc thấy comment trên list\n- Comment-only: ít tap, không rải Like/Share/Create như farm\n- Panel đóng không còn tính là gửi thành công\n- Tối đa vài điểm nút Gửi đã xác nhận",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.31/PhoneFarm-Setup-0.3.31.exe",
+  "version": "0.3.32",
+  "notes": "PhoneFarm v0.3.32\n\n- Fix Học UI: vuốt FYP rồi mở ô comment chuẩn (không fail sớm)\n- Thử video thứ 2 nếu video đầu không mở được comment\n- Không còn log ✅ Đã học khi học thất bại",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.32/PhoneFarm-Setup-0.3.32.exe",
   "mandatory": false
 }
