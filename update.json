@@ -1,6 +1,6 @@
 {
-  "version": "0.3.44",
-  "notes": "PhoneFarm v0.3.44\n\n- Không báo thành công giả: fail thì ghi Thất bại, không còn Xong tác vụ\n- Xác nhận gửi comment chặt hơn (thấy câu trên list / ô hết đúng câu đã đọc)\n- Mặc định tắt hết module + Like/Follow/Comment — phải bật tay mới chạy",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.44/PhoneFarm-Setup-0.3.44.exe",
+  "version": "0.3.45",
+  "notes": "PhoneFarm v0.3.45\n\n- Fix comment nhảy emoji 😅: không tap hàng emoji dưới ô\n- Chỉ bấm Gửi mép phải cùng hàng ô nhập\n- Ô toàn emoji/ký tự lạ → không gửi",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.45/PhoneFarm-Setup-0.3.45.exe",
   "mandatory": false
 }
