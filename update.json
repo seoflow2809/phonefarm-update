@@ -1,6 +1,6 @@
 {
-  "version": "0.3.34",
-  "notes": "PhoneFarm v0.3.34\n\n- Học UI thêm kiểu sheet Comments: Add comment… + nút Gửi tròn hồng ↑\n- Giữ song song kiểu Gửi cùng hàng ô nhập (cũ)\n- Lúc chạy tự chọn layout máy đang hiện\n- Học lại một kiểu không xoá kiểu đã lưu trước đó",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.34/PhoneFarm-Setup-0.3.34.exe",
+  "version": "0.3.35",
+  "notes": "PhoneFarm v0.3.35\n\n- Fix flow comment: mở video → mở ô → dán câu setup → bấm Gửi\n- Nút Gửi hồng ↑ tìm đúng cùng hàng phải ô Add comment\n- Ưu tiên clipboard paste; ẩn ADB Keyboard trước khi Gửi\n- Đồng bộ toạ độ theo uiautomator (tránh tap lệch)",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.35/PhoneFarm-Setup-0.3.35.exe",
   "mandatory": false
 }
