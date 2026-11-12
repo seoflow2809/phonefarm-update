@@ -1,6 +1,6 @@
 {
-  "version": "0.3.39",
-  "notes": "PhoneFarm v0.3.39\n\n- Comment theo máy: mở profile → quét 30 video mới → chọn trên PC → chạy\n- Không deep-link URL video (tránh bấm lung tung)\n- Chỉ 1 URL profile / máy; Like/Follow chỉ khi đã tick",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.39/PhoneFarm-Setup-0.3.39.exe",
+  "version": "0.3.40",
+  "notes": "PhoneFarm v0.3.40\n\n- Fix comment: ưu tiên ADB Keyboard đúng câu setup (không dán URL clipboard)\n- Fix gửi: chỉ Gửi khi ô đúng nội dung, không còn URL/link\n- Fix quét kênh: vuốt trong lưới video, tránh chạm bio/link mở trình duyệt",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.40/PhoneFarm-Setup-0.3.40.exe",
   "mandatory": false
 }
