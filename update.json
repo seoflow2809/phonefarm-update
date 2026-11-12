@@ -1,6 +1,6 @@
 {
-  "version": "0.3.46",
-  "notes": "PhoneFarm v0.3.46\n\n- Fix comment lung tung/emoji: chỉ gửi khi dump đọc đúng câu setup\n- Không bấm Enter (Enter = xuống dòng liên tục trên TikTok)\n- Chỉ tap nút Gửi hồng mép phải ô; ô emoji → dừng ngay\n- Paste câu setup trước, không gửi mù",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.46/PhoneFarm-Setup-0.3.46.exe",
+  "version": "0.3.47",
+  "notes": "PhoneFarm v0.3.47\n\n- Fix bấm nút Gửi: đúng mép phải hàng toolbar dưới ô comment (cạnh mic)\n- Không đổi logic nhập comment / không Enter",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.47/PhoneFarm-Setup-0.3.47.exe",
   "mandatory": false
 }
