@@ -1,6 +1,6 @@
 {
-  "version": "0.3.43",
-  "notes": "PhoneFarm v0.3.43\n\n- Fix Gửi comment: ẩn ADB Keyboard giữ chữ rồi bấm nút hồng (tránh bị che)\n- Enter + nhiều điểm tap sau khi ẩn IME\n- Fail thì không báo Xong tác vụ\n- Giữ fix: chỉ gõ 1 lần, chỉ chạy video đã tick",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.43/PhoneFarm-Setup-0.3.43.exe",
+  "version": "0.3.44",
+  "notes": "PhoneFarm v0.3.44\n\n- Không báo thành công giả: fail thì ghi Thất bại, không còn Xong tác vụ\n- Xác nhận gửi comment chặt hơn (thấy câu trên list / ô hết đúng câu đã đọc)\n- Mặc định tắt hết module + Like/Follow/Comment — phải bật tay mới chạy",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.44/PhoneFarm-Setup-0.3.44.exe",
   "mandatory": false
 }
