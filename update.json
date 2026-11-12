@@ -1,6 +1,6 @@
 {
-  "version": "0.3.42",
-  "notes": "PhoneFarm v0.3.42\n\n- Fix: chỉ chạy đúng video đã tick, xong thì dừng (không lan video khác)\n- Quét xong không tự chọn hết — phải tick thủ công\n- Fix comment bị lặp 3 lần: chỉ gõ 1 lần, không paste kép, chặn gửi khi ô bị lặp",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.42/PhoneFarm-Setup-0.3.42.exe",
+  "version": "0.3.43",
+  "notes": "PhoneFarm v0.3.43\n\n- Fix Gửi comment: ẩn ADB Keyboard giữ chữ rồi bấm nút hồng (tránh bị che)\n- Enter + nhiều điểm tap sau khi ẩn IME\n- Fail thì không báo Xong tác vụ\n- Giữ fix: chỉ gõ 1 lần, chỉ chạy video đã tick",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.43/PhoneFarm-Setup-0.3.43.exe",
   "mandatory": false
 }
