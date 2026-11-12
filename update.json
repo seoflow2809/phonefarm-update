@@ -1,6 +1,6 @@
 {
-  "version": "0.3.35",
-  "notes": "PhoneFarm v0.3.35\n\n- Fix flow comment: mở video → mở ô → dán câu setup → bấm Gửi\n- Nút Gửi hồng ↑ tìm đúng cùng hàng phải ô Add comment\n- Ưu tiên clipboard paste; ẩn ADB Keyboard trước khi Gửi\n- Đồng bộ toạ độ theo uiautomator (tránh tap lệch)",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.35/PhoneFarm-Setup-0.3.35.exe",
+  "version": "0.3.36",
+  "notes": "PhoneFarm v0.3.36\n\n- Fix: không còn bấm nhầm vào caption/hashtag video\n- Mở comment: bấm đúng icon comment cột phải trước\n- Loại caption khỏi nhận diện ô nhập comment",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.36/PhoneFarm-Setup-0.3.36.exe",
   "mandatory": false
 }
