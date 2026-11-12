@@ -1,6 +1,6 @@
 {
-  "version": "0.3.36",
-  "notes": "PhoneFarm v0.3.36\n\n- Fix: không còn bấm nhầm vào caption/hashtag video\n- Mở comment: bấm đúng icon comment cột phải trước\n- Loại caption khỏi nhận diện ô nhập comment",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.36/PhoneFarm-Setup-0.3.36.exe",
+  "version": "0.3.37",
+  "notes": "PhoneFarm v0.3.37\n\n- Fix cập nhật tự động: đối chiếu update.json + GitHub Releases\n- Bust cache raw.githubusercontent.com (tránh báo đã mới nhất nhầm)\n- Hiện lỗi kiểm tra cập nhật trên UI",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.37/PhoneFarm-Setup-0.3.37.exe",
   "mandatory": false
 }
