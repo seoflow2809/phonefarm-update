@@ -1,6 +1,6 @@
 {
-  "version": "0.3.40",
-  "notes": "PhoneFarm v0.3.40\n\n- Fix comment: ưu tiên ADB Keyboard đúng câu setup (không dán URL clipboard)\n- Fix gửi: chỉ Gửi khi ô đúng nội dung, không còn URL/link\n- Fix quét kênh: vuốt trong lưới video, tránh chạm bio/link mở trình duyệt",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.40/PhoneFarm-Setup-0.3.40.exe",
+  "version": "0.3.42",
+  "notes": "PhoneFarm v0.3.42\n\n- Fix: chỉ chạy đúng video đã tick, xong thì dừng (không lan video khác)\n- Quét xong không tự chọn hết — phải tick thủ công\n- Fix comment bị lặp 3 lần: chỉ gõ 1 lần, không paste kép, chặn gửi khi ô bị lặp",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.42/PhoneFarm-Setup-0.3.42.exe",
   "mandatory": false
 }
