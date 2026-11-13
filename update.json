@@ -1,6 +1,6 @@
 {
-  "version": "0.3.47",
-  "notes": "PhoneFarm v0.3.47\n\n- Fix bấm nút Gửi: đúng mép phải hàng toolbar dưới ô comment (cạnh mic)\n- Không đổi logic nhập comment / không Enter",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.47/PhoneFarm-Setup-0.3.47.exe",
+  "version": "0.3.48",
+  "notes": "PhoneFarm v0.3.48\n\n- Quét kênh: mở từng video lấy URL, hiện link trên PC\n- Chạy comment: mở đúng URL đã chọn (không vào lại kênh / swipe lưới / lệch thứ tự)\n- Fix tap lưới lệch (#2 mở #3): dedupe ô + khớp cột; ưu tiên deep-link URL",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.48/PhoneFarm-Setup-0.3.48.exe",
   "mandatory": false
 }
