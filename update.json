@@ -1,6 +1,6 @@
 {
-  "version": "0.3.56",
-  "notes": "PhoneFarm v0.3.56\n\n- Học UI theo UI comment thật: mở video → icon comment → Add comment → gõ giả → lưu nút Gửi (không bấm gửi)",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.56/PhoneFarm-Setup-0.3.56.exe",
+  "version": "0.3.57",
+  "notes": "PhoneFarm v0.3.57\n\n- Fix comment: ưu tiên ADB Keyboard (tránh dán URL trong clipboard)\n- TikTok ẩn chữ trong dump: chấp nhận khi nút Gửi hồng đã hiện",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.57/PhoneFarm-Setup-0.3.57.exe",
   "mandatory": false
 }
