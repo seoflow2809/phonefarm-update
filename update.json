@@ -1,6 +1,6 @@
 {
-  "version": "0.3.53",
-  "notes": "PhoneFarm v0.3.53\n\n- Fix thứ tự video lưới: #1 trái, #2 giữa, #3 phải (hàng trên → dưới)\n- Mở video đúng cột/hàng, không bấm nhầm ô khác hàng",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.53/PhoneFarm-Setup-0.3.53.exe",
+  "version": "0.3.54",
+  "notes": "PhoneFarm v0.3.54\n\n- Fix sort profile: chỉ chọn Latest, không chọn nhầm Popular",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.54/PhoneFarm-Setup-0.3.54.exe",
   "mandatory": false
 }
