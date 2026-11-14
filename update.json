@@ -1,6 +1,6 @@
 {
-  "version": "0.3.51",
-  "notes": "PhoneFarm v0.3.51\n\n- Chỉ bấm Latest 1 lần khi chạy video đầu; video sau không bấm lại (tránh xáo lưới)\n- Tap đúng vị trí video theo meta lúc quét",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.51/PhoneFarm-Setup-0.3.51.exe",
+  "version": "0.3.52",
+  "notes": "PhoneFarm v0.3.52\n\n- Học UI: mở URL profile → video đầu → comment giả (không gửi) để lưu vị trí nút",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.52/PhoneFarm-Setup-0.3.52.exe",
   "mandatory": false
 }
