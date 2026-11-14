@@ -1,6 +1,6 @@
 {
-  "version": "0.3.54",
-  "notes": "PhoneFarm v0.3.54\n\n- Fix sort profile: chỉ chọn Latest, không chọn nhầm Popular",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.54/PhoneFarm-Setup-0.3.54.exe",
+  "version": "0.3.55",
+  "notes": "PhoneFarm v0.3.55\n\n- Comment theo máy: mở URL profile rồi mở URL video (bỏ quét lưới)\n- Học UI / comment giữ nguyên logic gửi",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.55/PhoneFarm-Setup-0.3.55.exe",
   "mandatory": false
 }
