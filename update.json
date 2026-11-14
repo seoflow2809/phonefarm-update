@@ -1,6 +1,6 @@
 {
-  "version": "0.3.49",
-  "notes": "PhoneFarm v0.3.49\n\n- Bỏ lấy URL video khi quét\n- Quét lưới theo số thứ tự (#1..#30, hàng/cột)\n- Chạy: mở đúng video theo hàng + cột (vuốt từng hàng, không lệch #2→#3)",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.49/PhoneFarm-Setup-0.3.49.exe",
+  "version": "0.3.50",
+  "notes": "PhoneFarm v0.3.50\n\n- Tự mở TikTok nếu máy chưa mở app (quét kênh / chạy comment theo máy)",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.50/PhoneFarm-Setup-0.3.50.exe",
   "mandatory": false
 }
