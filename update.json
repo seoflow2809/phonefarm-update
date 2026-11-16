@@ -1,6 +1,6 @@
 {
-  "version": "0.3.58",
-  "notes": "PhoneFarm v0.3.58\n\n- Quay lại quét lưới kênh + tick video (bỏ mở bằng URL video)\n- Mở đúng ô: #1 trái · #2 giữa · #3 phải theo hàng/cột",
-  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.58/PhoneFarm-Setup-0.3.58.exe",
+  "version": "0.3.59",
+  "notes": "PhoneFarm v0.3.59\n\n- Fix quét lần 2 lệch: luôn về đầu lưới + chỉ lấy 1 hàng/lần vuốt\n- Fix mở video: luôn scroll top rồi mới vuốt đúng hàng/cột (#1 trái #2 giữa #3 phải)",
+  "url": "https://github.com/seoflow2809/phonefarm-update/releases/download/v0.3.59/PhoneFarm-Setup-0.3.59.exe",
   "mandatory": false
 }
